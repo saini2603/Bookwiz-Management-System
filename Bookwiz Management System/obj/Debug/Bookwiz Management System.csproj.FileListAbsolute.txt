@@ -1,0 +1,30 @@
+C:\Users\user\source\repos\Bookwiz Management System\Bookwiz Management System\bin\Debug\Bookwiz Management System.exe.config
+C:\Users\user\source\repos\Bookwiz Management System\Bookwiz Management System\bin\Debug\Bookwiz Management System.exe
+C:\Users\user\source\repos\Bookwiz Management System\Bookwiz Management System\bin\Debug\Bookwiz Management System.pdb
+C:\Users\user\source\repos\Bookwiz Management System\Bookwiz Management System\obj\Debug\Bookwiz Management System.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Bookwiz Management System\Bookwiz Management System\obj\Debug\Bookwiz Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Bookwiz Management System\Bookwiz Management System\obj\Debug\Bookwiz_Management_System.Form1.resources
+C:\Users\user\source\repos\Bookwiz Management System\Bookwiz Management System\obj\Debug\Bookwiz_Management_System.Properties.Resources.resources
+C:\Users\user\source\repos\Bookwiz Management System\Bookwiz Management System\obj\Debug\Bookwiz Management System.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Bookwiz Management System\Bookwiz Management System\obj\Debug\Bookwiz Management System.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Bookwiz Management System\Bookwiz Management System\obj\Debug\Bookwiz Management System.exe
+C:\Users\user\source\repos\Bookwiz Management System\Bookwiz Management System\obj\Debug\Bookwiz Management System.pdb
+C:\Users\user\source\repos\Bookwiz Management System\Bookwiz Management System\obj\Debug\Bookwiz_Management_System.MIsManager.resources
+C:\Users\user\source\repos\Bookwiz Management System\Bookwiz Management System\obj\Debug\Bookwiz_Management_System.InventoryController.resources
+C:\Users\user\source\repos\Bookwiz Management System\Bookwiz Management System\obj\Debug\Bookwiz_Management_System.SalesManager.resources
+C:\Users\user\source\repos\Bookwiz Management System\Bookwiz Management System\obj\Debug\Bookwiz_Management_System.OrderClerk.resources
+C:\Users\user\Downloads\Bookwiz Management System\Bookwiz Management System\bin\Debug\Bookwiz Management System.exe.config
+C:\Users\user\Downloads\Bookwiz Management System\Bookwiz Management System\bin\Debug\Bookwiz Management System.exe
+C:\Users\user\Downloads\Bookwiz Management System\Bookwiz Management System\bin\Debug\Bookwiz Management System.pdb
+C:\Users\user\Downloads\Bookwiz Management System\Bookwiz Management System\obj\Debug\Bookwiz Management System.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Bookwiz Management System\Bookwiz Management System\obj\Debug\Bookwiz Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\Bookwiz Management System\Bookwiz Management System\obj\Debug\Bookwiz_Management_System.Form1.resources
+C:\Users\user\Downloads\Bookwiz Management System\Bookwiz Management System\obj\Debug\Bookwiz_Management_System.InventoryController.resources
+C:\Users\user\Downloads\Bookwiz Management System\Bookwiz Management System\obj\Debug\Bookwiz_Management_System.MIsManager.resources
+C:\Users\user\Downloads\Bookwiz Management System\Bookwiz Management System\obj\Debug\Bookwiz_Management_System.OrderClerk.resources
+C:\Users\user\Downloads\Bookwiz Management System\Bookwiz Management System\obj\Debug\Bookwiz_Management_System.Properties.Resources.resources
+C:\Users\user\Downloads\Bookwiz Management System\Bookwiz Management System\obj\Debug\Bookwiz_Management_System.SalesManager.resources
+C:\Users\user\Downloads\Bookwiz Management System\Bookwiz Management System\obj\Debug\Bookwiz Management System.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Bookwiz Management System\Bookwiz Management System\obj\Debug\Bookwiz Management System.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Bookwiz Management System\Bookwiz Management System\obj\Debug\Bookwiz Management System.exe
+C:\Users\user\Downloads\Bookwiz Management System\Bookwiz Management System\obj\Debug\Bookwiz Management System.pdb
